@@ -1,4 +1,4 @@
-# Personal Machine Learning Model: Entropy and Gini-Index Functions
+# Machine Learning Model (From Scratch): Entropy and Gini-Index Functions
 
 This repository contains a project developed during my university studies, focusing on creating an ML model from scratch based on entropy and Gini-index evaluations. The project includes functions to compute these metrics, evaluate the information gain for features in a dataset, and compare model performance.
 
